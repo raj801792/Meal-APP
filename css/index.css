@@ -1,0 +1,55 @@
+/*For home section*/
+#home{
+  
+  /*background-image: url('/img/meal.jpg');
+  background-size: cover;
+  opacity: 0.9px;*/
+  background-color: darkcyan;
+   display: flex;
+   height: 70vh;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   
+}
+
+.input-color{
+  color: white;
+}
+
+/*for item section*/
+#item{
+  background-color: rgb(210, 213, 216);
+}
+.heading-name{
+  margin: 43px 0px;
+}
+
+.card{
+  position: relative;
+}
+
+/*Icon on the images*/
+.video-icon{
+  position: absolute;
+  top: 20px;
+  left: 25px;
+}
+
+.fav-icon{
+  position: absolute;
+  top: 20px;
+  right: 25px;
+  
+}
+
+.detail-icon{
+  position: absolute;
+  bottom: 70px;
+  right:35px;
+}
+
+
+
+
+
